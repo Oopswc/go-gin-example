@@ -26,7 +26,7 @@ require (
 	github.com/smartystreets/goconvey v0.0.0-20190731233626-505e41936337 // indirect
 	github.com/swaggo/gin-swagger v1.2.0
 	github.com/swaggo/swag v1.5.1
-	github.com/tealeg/xlsx v1.0.4-0.20180419195153-f36fa3be8893
+	_ github.com/tealeg/xlsx v1.0.4-0.20180419195153-f36fa3be8893
 	github.com/unknwon/com v1.0.1
 	golang.org/x/image v0.0.0-20180628062038-cc896f830ced // indirect
 	golang.org/x/sys v0.0.0-20190921204832-2dccfee4fd3e // indirect
